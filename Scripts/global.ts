@@ -4,7 +4,7 @@ const { globalEvents, GameObject, GameWorld, world } = require('@tabletop-playgr
 const drawAndPlaceCards = (deck) => {
     const thisCard = deck.takeCards();
     if (thisCard) {
-        this
+        // this
     }
 }
 
@@ -38,3 +38,7 @@ for (const obj of allObjs) {
 //         }
 //     );
 // });
+//
+
+
+export {}

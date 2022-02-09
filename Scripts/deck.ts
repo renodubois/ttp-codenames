@@ -15,3 +15,5 @@ const pos = [
 
 
 console.log(refCard.takeCards(1));
+
+export {}
