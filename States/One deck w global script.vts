@@ -1,0 +1,622 @@
+{
+	"saveStateVersion": "1.1",
+	"gameState":
+	{
+		"measureUnit": 2.5399999618530273,
+		"rotationStep": 45,
+		"notes": "You can enter notes for the game here. They will be visible to all players and are stored when the game is saved.\n\nYou can use [color=#ff0000]colors[/color], [b]bold[/b] or [i]italic[/i] text, [size=9]different[/size] [size=16]sizes[/size], and [color=#00ff00][size=8][b][i]combine text styles.[/color][/size][/b][/i]",
+		"currentTurn": 0,
+		"playerTeams": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+		"globalScriptPackage": "30B94B3A431944DEE4EDA68548059BCD",
+		"globalScriptName": "global.js",
+		"persistentData": "",
+		"backgroundTexture":
+		{
+			"resourceName": "",
+			"packageGuid": "00000000000000000000000000000000"
+		},
+		"permissions":
+		{
+			"delete": -1,
+			"objectLibrary": -1,
+			"copyPaste": -1,
+			"cardPeek": -1,
+			"cardExplorer": -1,
+			"containerExplorer": -1,
+			"changeOwner": -1,
+			"changeTeam": -1,
+			"editZones": -1
+		},
+		"physicsLocked": false,
+		"measureAngles": false,
+		"alwaysSnap": false,
+		"liftOverRegular": true,
+		"gravityMultiplier": 1,
+		"playersIds": [
+			"0002788dfa49475bab3a50711a9b83ec",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		"mapName": "HDRI_Field",
+		"bCanBeDamaged": false
+	},
+	"requiredPackages": [
+		{
+			"name": "Codemarms",
+			"guid": "30B94B3A431944DEE4EDA68548059BCD"
+		},
+		{
+			"name": "General",
+			"guid": "D74C7D5D6745CD565913DAA5FB3E9C93"
+		}
+	],
+	"storedCameraSetups": [ false, false, false, false, false, false, false, false, false, false ],
+	"customPlayerColors": [ false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false ],
+	"objects": [
+		{
+			"objectType": "Card",
+			"transform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": 19.61469841003418,
+					"y": -83.250869750976562,
+					"z": 81.491020202636719
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"simulatingPhysics": true,
+			"atlasIndex": 0,
+			"frontTextureOverride": "",
+			"inHand": false,
+			"stackSerialization": [
+				{
+					"index": 1,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 2,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 3,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 4,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 5,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 6,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 7,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 8,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 9,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 10,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 11,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 12,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 13,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 14,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 15,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 16,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 17,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 18,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 19,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 20,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 21,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 22,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 23,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 24,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 25,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 26,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 27,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 28,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 29,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 30,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 31,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 32,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 33,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 34,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 35,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 36,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 37,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 38,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 39,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 40,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 41,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 42,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 43,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 44,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 45,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 46,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 47,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 48,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 49,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 50,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 51,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 52,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 53,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 54,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 55,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 56,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 57,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 58,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 59,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 60,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 61,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 62,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 63,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 64,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 65,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 66,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 67,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 68,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				},
+				{
+					"index": 69,
+					"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+					"frontTextureOverride": "",
+					"flipped": false
+				}
+			],
+			"primaryColor":
+			{
+				"b": 255,
+				"g": 255,
+				"r": 255,
+				"a": 255
+			},
+			"secondaryColor":
+			{
+				"b": 0,
+				"g": 0,
+				"r": 0,
+				"a": 255
+			},
+			"metallic": 0,
+			"roughness": 1,
+			"friction": 0.69999998807907104,
+			"restitution": 0,
+			"density": 0.5,
+			"surfaceType": "SurfaceType4",
+			"objectName": "",
+			"objectDescription": "",
+			"collisionType": "CB_Regular",
+			"templateId": "E4115F1B48D69E2CF2C5C0BF9CFFEDB6",
+			"shouldSnap": true,
+			"previousPosition":
+			{
+				"x": 0,
+				"y": 0,
+				"z": 0
+			},
+			"objectScriptPackage": "00000000000000000000000000000000",
+			"objectScriptName": "",
+			"persistentData": "",
+			"uniqueId": "u6x",
+			"objectGroupId": -1,
+			"ownerIndex": -1,
+			"bCanBeDamaged": false
+		},
+		{
+			"objectType": "Table",
+			"transform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"simulatingPhysics": false,
+			"primaryColor":
+			{
+				"b": 255,
+				"g": 255,
+				"r": 255,
+				"a": 255
+			},
+			"secondaryColor":
+			{
+				"b": 0,
+				"g": 0,
+				"r": 0,
+				"a": 255
+			},
+			"metallic": 0,
+			"roughness": 1,
+			"friction": 0.69999998807907104,
+			"restitution": 0.30000001192092896,
+			"density": 1,
+			"surfaceType": "SurfaceType1",
+			"objectName": "",
+			"objectDescription": "",
+			"collisionType": "CB_Static",
+			"templateId": "F27689B0431FFA778EC9D6835FA2B8FC",
+			"shouldSnap": true,
+			"previousPosition":
+			{
+				"x": 0,
+				"y": 0,
+				"z": 0
+			},
+			"objectScriptPackage": "00000000000000000000000000000000",
+			"objectScriptName": "",
+			"persistentData": "",
+			"uniqueId": "",
+			"objectGroupId": -1,
+			"ownerIndex": -1,
+			"bCanBeDamaged": false
+		}
+	],
+	"zones": []
+}
