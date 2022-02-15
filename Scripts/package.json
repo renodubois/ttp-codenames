@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "",
   "scripts": {
-    "build": "tsc *.ts"
+    "build": "tsc"
   },
   "author": "Reno DuBois",
   "license": "GPLv3",
