@@ -8,7 +8,7 @@
 		"currentTurn": 0,
 		"playerTeams": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
 		"globalScriptPackage": "30B94B3A431944DEE4EDA68548059BCD",
-		"globalScriptName": "global.js",
+		"globalScriptName": "build/global.js",
 		"persistentData": "",
 		"backgroundTexture":
 		{
@@ -59,7 +59,7 @@
 	},
 	"requiredPackages": [
 		{
-			"name": "Codemarms",
+			"name": "Codenames",
 			"guid": "30B94B3A431944DEE4EDA68548059BCD"
 		},
 		{
